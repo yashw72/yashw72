@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Yash Warungase!
+🎓 Second Year IT Engineering Student | 💻 Flutter & Firebase Developer
+| 📊 Ex-Data Science Intern @ Sumago Infotech | 
 
 
 <!--
