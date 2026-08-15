@@ -25,6 +25,11 @@
 ### 🎓 Education
 > _Add your college name, degree, and CGPA here (e.g. "B.Tech in Information Technology, [College Name], 20XX–20XX | CGPA: X.X/10")._
 
+| Degree | Institution | Duration | Score |
+| :--- | :--- | :--- | :--- |
+| **B.E. in Information Technology** | Dr. D. Y. Patil Institute of Technology, Pimpri, Pune | Aug 2025 – Present | CGPA: **9.22** |
+| **Diploma in Computer Technology** | Government Polytechnic, Nashik | Aug 2022 – May 2025 | Percentage: **92.59%** |
+
 ---
 
 ### 💻 Coding Profiles
