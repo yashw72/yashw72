@@ -44,7 +44,7 @@
 </tr>
 <tr>
   <td><strong>Backend & Async</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=django,php,fastapi,nodejs" /></td>
+  <td><img src="https://skillicons.dev/icons?i=django,php,fastapi,nodejs,express" /></td>
 </tr>
 <tr>
   <td><strong>Databases</strong></td>
