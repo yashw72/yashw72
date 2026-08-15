@@ -40,7 +40,7 @@
 </tr>
 <tr>
   <td><strong>Frontend</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,flutter" /></td>
+  <td><img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,flutter" /></td>
 </tr>
 <tr>
   <td><strong>Backend & Async</strong></td>
