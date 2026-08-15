@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About Me
--- 💻 Building a solid foundation in Data Structures, and Algorithms,C++,Python as an aspiring Software Developer.
+- 💻 Building a solid foundation in Data Structures, and Algorithms,C++,Python as an aspiring Software Developer.
 - 🌐 Skilled in crafting full-stack web applications and developer tools with FastAPI, Django, React, and Graph Databases.
 - 🎨 Driven by a passion for modern UI/UX design and immersive 2D/3D interactive interfaces.
 - 📱 Hands-on experience with Flutter, having built a mobile application project named ClickNGo.
