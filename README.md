@@ -14,13 +14,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Second Year IT Engineering Student
-- 🔭 Currently building **Flutter + Firebase** projects
-- 🌱 Currently learning **Advanced DSA & System Design**
-- 📊 Ex–Data Science Intern @ **Sumago Infotech**
-- 💬 Ask me about **Flutter, Firebase, DSA, C++**
-- 📫 Reach me at: **yashw__72**
-- ⚡ Fun fact: I love building real-world tech products
+- 💻 Building a solid foundation in Python, Data Structures, and Algorithms as an aspiring Software Developer.
+- 🌐 Skilled in crafting full-stack web applications and developer tools with FastAPI, Django, React, and Graph Databases.
+- 🎨 Driven by a passion for sleek, glassmorphic UI/UX design and immersive 2D/3D interactive interfaces.
+- 🤖 Gained hands-on industry experience through an intensive internship in Python, Data Science, and AI/ML — covering data analysis, LLM integrations, and end-to-end machine learning workflows.
 
 ---
 
