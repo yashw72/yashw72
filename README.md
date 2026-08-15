@@ -48,7 +48,7 @@
 </tr>
 <tr>
   <td><strong>Databases</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" /></td>
+  <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase" /></td>
 </tr>
 <tr>
   <td><strong>Core CS</strong></td>
