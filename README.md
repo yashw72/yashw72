@@ -31,14 +31,6 @@
 
 ---
 
-### 💻 Coding Profiles
-<p align="left">
-  <a href="https://leetcode.com/yashw__72"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>&nbsp;&nbsp;
-</p>
-
-> _If you have Codeforces / CodeChef / GFG / HackerRank profiles, add their badges here — Tejas's version links all five._
-
----
 
 ### 🛠️ Tech Stack & Skills
 <table align="center">
@@ -52,11 +44,11 @@
 </tr>
 <tr>
   <td><strong>Backend & Async</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=django,php,fastapi,Node.js,Express.js,celery,redis" /></td>
+  <td><img src="https://skillicons.dev/icons?i=django,php,fastapi,Node.js,Express.js" /></td>
 </tr>
 <tr>
   <td><strong>Databases</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=mysql,mysql workbench,firebase,supabase,postgres,mysql,sqlite" /></td>
+  <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /></td>
 </tr>
 <tr>
   <td><strong>Core CS</strong></td>
