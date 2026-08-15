@@ -52,7 +52,7 @@
 </tr>
 <tr>
   <td><strong>AI/Tools</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,android studio" /></td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,androidstudio" /></td>
 </tr>
 </table>
 
