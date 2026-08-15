@@ -51,8 +51,8 @@
   <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase" /></td>
 </tr>
 <tr>
-  <td><strong>Core CS</strong></td>
-  <td>Data Structures & Algorithms, System Design (in progress)</td>
+  <td><strong>AI/Tools</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,android studio" /></td>
 </tr>
 </table>
 
