@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Warungase</h1>
+<h1 align="center">Yash Warungase — Aspiring Software Developer 👨‍💻
+</h1>
 <h3 align="center">🎓 Second Year IT Engineering Student | 💻 Flutter & Firebase Developer | 📊 Ex-Data Science Intern @ Sumago Infotech |</h3>
 
 ---
