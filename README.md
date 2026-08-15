@@ -27,7 +27,7 @@
 | :--- | :--- | :--- | :--- |
 | **B.E. in Information Technology** | Dr. D. Y. Patil Institute of Technology, Pimpri, Pune | Aug 2025 – Present | CGPA: **9.22** |
 | **Diploma in Computer Technology** | Government Polytechnic, Nashik | Aug 2022 – Jul 2025 | Percentage: **92.59%** |
-| **Secondary School Certificate (10th Grade)** | L.S.B.Waje Vidyalay, Sinnar, Nashik| June 2021 – March 2022 | Percentage: **95.40%** |
+| **Secondary School Certificate (10th Grade)** | L. S. B. Waje Vidyalay, Sinnar, Nashik| June 2021 – March 2022 | Percentage: **95.40%** |
 
 ---
 
@@ -44,19 +44,19 @@
 <table align="center">
 <tr>
   <td><strong>Languages</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,js" /></td>
+  <td><img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js" /></td>
 </tr>
 <tr>
-  <td><strong>Mobile & Frontend</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=flutter,html,css" /></td>
+  <td><strong>Frontend</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,flutter" /></td>
 </tr>
 <tr>
-  <td><strong>Backend & Cloud</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=firebase,mysql" /></td>
+  <td><strong>Backend & Async</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=django,php,fastapi,Node.js,Express.js,celery,redis" /></td>
 </tr>
 <tr>
-  <td><strong>Data Science</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=python" /> Pandas, Seaborn, MATLAB</td>
+  <td><strong>Databases</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=mysql,mysql workbench,firebase,supabase,postgres,mysql,sqlite" /></td>
 </tr>
 <tr>
   <td><strong>Core CS</strong></td>
