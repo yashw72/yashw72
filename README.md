@@ -82,7 +82,7 @@
 <details>
 <summary><b>DSA & Experience</b></summary>
 
-- 🥇 Solving DSA problems daily
+- 🥇 Solving DSA problems daily with 100 +leetcode problems 
 - 📱 Built multiple Flutter applications
 - 📊 Worked as Data Science Intern @ Sumago Infotech
 
