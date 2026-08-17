@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Yash Warungase — Aspiring Software Developer 👨‍💻</strong></h1>
+<h1 align="center"><strong>Yash Warungase — Aspiring Software Developer and intern👨‍💻</strong></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+%26+Firebase+Developer;IT+Engineering+Student;Data+Science+%7C+DSA+Enthusiast"/>
